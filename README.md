@@ -20,7 +20,7 @@ Canvas Hand Portable 是一个可迁移的本地无限画布包，适合在 Code
 Codex安装
 ```text
 请帮我安装这个 GitHub 仓库里的 Canvas Hand 插件：
-https://github.com/3410467429-wq/AI---
+https://github.com/3410467429-wq/AI---](https://github.com/3410467429-wq/Jiakang-Local-Infinite-Canvas-Package
 
 要求：
 1. 克隆仓库
