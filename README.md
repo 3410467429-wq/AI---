@@ -36,28 +36,6 @@ Open my canvas
 ```
 后面可以正常使用
 
-另一种安装方式
-
-1. 解压到任意普通目录，例如：
-
-```text
-C:\Users\你的用户名\Downloads\canvas-hand-portable
-```
-
-2. 在解压后的目录打开 PowerShell。
-
-3. 运行：
-
-```powershell
-Set-ExecutionPolicy -Scope Process Bypass
-.\scripts\Install-CanvasHand-Windows.ps1
-```
-
-4. 重启 Codex，然后输入：
-
-```text
-Open my canvas
-```
 
 ## 安装后文件位置
 
